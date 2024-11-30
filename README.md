@@ -10,6 +10,31 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+Functional Requirements
+
+1. Alumni Registration:  It makes a User-friendly registration processes on both web and mobile platforms and it plays an important role of Alumini Association Platform.
+2. Donation Portal:  Secure mechanisms on both platforms for alumni to contribute donations easily with the Stripe or PayPal for secure and seamless donation transactions.
+
+3. Networking Hub: Dedicated sections on both platforms to connect alumni based on shared interests, professions, and geographic locations
+4. Job Portal: Integrated job search and posting features accessible via web and mobile apps
+5. Alumni Directory: Search functionalities available on both platforms to find alumni based on different criteria
+6. Success Story Tracking: Features on both web and mobile apps to showcase and track alumni achievements and success stories and it gives a lesson about the job details of  
+   alumini can share a details to current college students friendly.
+7. Events and Reunions: Announcements, registrations, and management tools available on both platforms for organizing alumni events and it makes the students to take a
+   leadership of events and we learn about leadership this also help us to take the leadership responsibilities of the job.
+8. Feedback and Surveys: Channels on both web and mobile apps for alumni to provide feedback and participate in surveys.
+
+
+
+Non-Functional Requirements
+
+1. Security: It makes the ensure data protection and privacy using encryption, secure authentication, and access controls.
+2. Scalability:It will makes to design the platform to handle increasing traffic and user growth with load balancing and autoscaling.
+3. Usability: It will makes the ensure an intuitive and user-friendly interface on both web and mobile platforms with accessibility features.
+4. Performance: It works on optimize the platform for fast loading times, efficient data retrieval, and seamless navigation.
+5. Maintainability: It will makes to design the platform for easy maintenance, updates, and bug fixes with continuous integration and deployment.
+
+
 
 
 ## Proposed Solution / Architecture Diagram
