@@ -101,9 +101,9 @@ Security: OWASP Top 10, Security Headers
 
 
 ## Dependencies
-Function Requirements:30 Days
+Functional Requirements:30 Days
 
-Non-Function Requirements:15-20 Days
+Non-Functional Requirements:15-20 Days
 
 Timeline:45 Days
 
