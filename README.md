@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30-11-2024
+## Register Number: 24900694
+## Name: R MUBARAK
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
