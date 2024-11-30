@@ -102,8 +102,11 @@ Security: OWASP Top 10, Security Headers
 
 ## Dependencies
 Function Requirements:30 Days
+
 Non-Function Requirements:15-20 Days
+
 Timeline:45 Days
+
 Budget:75,000-1,00,000
 
 
