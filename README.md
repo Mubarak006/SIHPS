@@ -38,6 +38,9 @@ Non-Functional Requirements
 
 
 ## Proposed Solution / Architecture Diagram
+![Function Requirements](https://github.com/user-attachments/assets/68a6a0d9-fe9c-4109-a8e8-fb4ead26ec89)
+![Non-Functional Requirements](https://github.com/user-attachments/assets/b6c770b0-86c3-49cf-bcd0-3a7a40a524f6)
+
 
 
 ## Use Cases
