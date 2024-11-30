@@ -19,6 +19,57 @@ Government of Gujarat
 
 
 ## Technology Stack
+1.Frontend:
+
+Web Application: React.jsfor building a responsive and dynamic user interface.
+
+Mobile Application: React Native for cross-platform mobile app development (iOS and Android).
+
+UI/UX Design: Figma or Adobe XD for designing user interfaces and experiences.
+
+2.Backend:
+
+Server: Node.jswith Express.jsfor creating a scalable server-side application.
+
+Database: PostgreSQL for relational data and MongoDB for document-based data.
+
+Authentication: OAuth 2.0 and JWT (JSON Web Tokens) for secure user authentication.
+
+Email and SMS Services: Twilio, SendGrid
+
+Push Notifications: Firebase Cloud Messaging (FCM)
+
+3.Cloud Services:
+
+Hosting: AWS (Amazon Web Services) or Azure for deploying web and mobile applications.
+
+Storage: AWS S3 for storing static files and media content.
+
+Database: AWS RDS for managed database services.
+
+4.Payment Gateway:
+
+Donations: Stripe or PayPal for secure and seamless donation transactions.
+
+5.Real-time Communication:
+
+Web Sockets: Socket.iofor real-time updates and notifications.
+
+6.Databases:
+  1.Mongodb
+  2.PostgreSQL
+  3.Firebase Firestore (for real-time data syncing)
+
+7.Analytics:
+
+Tracking: Google Analytics or Mixpanel for user behavior tracking and analytics
+
+8.Additional Tools and Libraries:
+
+Version Control: Git
+CI/CD: Jenkins, CircleCI
+Testing: Jest, Mocha, Chai
+Security: OWASP Top 10, Security Headers
 
 
 ## Dependencies
