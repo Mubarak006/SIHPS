@@ -44,6 +44,7 @@ Non-Functional Requirements
 
 
 ## Use Cases
+![Use Cases](https://github.com/user-attachments/assets/c9044f65-f1b6-437b-b394-21ff0fad5fc6)
 
 
 ## Technology Stack
@@ -101,13 +102,13 @@ Security: OWASP Top 10, Security Headers
 
 
 ## Dependencies
-Functional Requirements:30 Days
+Functional Requirements:10Days
 
-Non-Functional Requirements:15-20 Days
+Non-Functional Requirements:10 Days
 
-Timeline:45 Days
+Timeline:30 Days
 
-Budget:75,000-1,00,000
+Budget:30,000-50,000
 
 
 
