@@ -102,7 +102,7 @@ Security: OWASP Top 10, Security Headers
 
 
 ## Dependencies
-Functional Requirements:10Days
+Functional Requirements:10 Days
 
 Non-Functional Requirements:10 Days
 
